@@ -1,0 +1,47 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+/* . indica uma classe */
+
+.container{
+    margin-inline: auto;
+    max-width: 760px;
+}
+
+.mainBanner, .w-100{
+    width: 100%;
+}
+
+.menu{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.botton{
+    border: 3px solid rgb(168, 168, 168);
+    color: rgb(0, 0, 0);
+    padding: 2px;
+    text-decoration: none;
+    background-color: rgb(203, 203, 203);
+    width: 120px;
+    display: block;
+    margin-bottom: 15px;
+    margin-inline: auto;
+    border-radius: 10px; 
+    
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer a{
+ color: aliceblue;
+}
